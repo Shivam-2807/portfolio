@@ -1,0 +1,8 @@
+/.project
+.settings
+.idea/
+.DS_Store
+*.*~
+output/*/*
+portfolio/shivam-2807*
+__new
